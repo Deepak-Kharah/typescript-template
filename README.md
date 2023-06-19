@@ -1,15 +1,7 @@
-# 🚀 Welcome to your new awesome project!
+# Typescript template
 
-This project has been created using **webpack-cli**, you can now run
+Use this template for starting new typescript projects.
 
-```
-npm run build
-```
+## TODO
 
-or
-
-```
-yarn build
-```
-
-to bundle your application
+-   Set up testing framework
